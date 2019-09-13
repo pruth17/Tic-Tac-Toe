@@ -1,1 +1,1 @@
-# LAB1
+A program that plays TicTacToe with a human user. Uses a class TicTacToeBoard that stores a 3 x 3 array of char values (filled with 'x' , '0', or space characters). The program uses a random number generator to choose who begins. When it's the computer's turn, it randomly generates a legal move. When it's the human’s turn, it read the move and check that it is legal. 
